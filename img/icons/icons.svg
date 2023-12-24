@@ -1,0 +1,9 @@
+<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<symbol viewBox="0 0 16 16" id="arrow-long-right" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.1464 5.14645C11.3417 4.95118 11.6583 4.95118 11.8536 5.14645L14.3536 7.64645C14.5488 7.84171 14.5488 8.15829 14.3536 8.35355L11.8536 10.8536C11.6583 11.0488 11.3417 11.0488 11.1464 10.8536C10.9512 10.6583 10.9512 10.3417 11.1464 10.1464L12.7929 8.5H2C1.72386 8.5 1.5 8.27614 1.5 8C1.5 7.72386 1.72386 7.5 2 7.5H12.7929L11.1464 5.85355C10.9512 5.65829 10.9512 5.34171 11.1464 5.14645Z"/>
+</symbol>
+
+<symbol viewBox="0 0 24 24" id="chevron-left" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.75 19.5L8.25 12L15.75 4.5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</symbol></svg>
